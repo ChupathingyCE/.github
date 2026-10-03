@@ -8,7 +8,7 @@
 <a href="https://github.com/ChupathingyCE/chupathingyce/releases/latest">Download</a> ·
 <a href="https://halo.milenko.org">Games online now</a> ·
 <a href="https://github.com/ChupathingyCE/chupathingyce">The game</a> ·
-<a href="https://discord.gg/fXNqnpaNay">Discord (Milenko x TeamUIX)</a>
+<a href="https://discord.gg/4BUm2FwuCB">Discord</a>
 </p>
 
 ---
