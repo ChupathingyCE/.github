@@ -1,34 +1,56 @@
 <p align="center"><img src="icon.png" width="96" alt=""></p>
 
-<h2 align="center">ChupathingyCE</h2>
+<h2 align="center">Chupathingy</h2>
 
-<p align="center">A community build of OpenCE: Halo: Combat Evolved on Windows, Mac, Linux and Android.</p>
+<p align="center">Halo: Combat Evolved, running natively on Windows, Mac, Linux, Steam Deck and Android, with the original Xbox in testing. Built for stability and for playing together.</p>
 
 <p align="center">
 <a href="https://github.com/ChupathingyCE/chupathingyce/releases/latest">Download</a> ·
 <a href="https://halo.milenko.org">Games online now</a> ·
-<a href="https://github.com/ChupathingyCE/chupathingyce">The game</a> ·
 <a href="https://discord.gg/chupathingy">Discord</a>
 </p>
 
 ---
 
-We build on **[OpenCE](https://github.com/cybersecurity/halo-ce-universal)**, the
-port of the Halo: Combat Evolved decompilation. Our goal is a unified online
-experience, plus our own tweaks, on a project that's still in its infancy. We
-follow OpenCE closely, send our fixes back to it, and stay compatible with its
-builds: players of both play together.
+**Play.** Download Chupathingy for your platform and point it at your own copy of
+the game: an Xbox disc image, the Halo PC CD or the Custom Edition installer. It
+sets itself up on the first start. Then open Multiplayer, Online Games, and join
+in: our own servers run around the clock, alongside the community's.
+
+**What you get.** Xbox maps, Halo PC and Custom Edition maps (downloaded for you
+when a game needs one), text chat, the Xbox-style menus with modern extras,
+controller layouts including Bumper Jumper, high-res HUD art, and dedicated
+servers anyone can run. Your games, medals and service record show up on the
+site.
+
+### Projects
 
 **[chupathingyce](https://github.com/ChupathingyCE/chupathingyce)**: the game,
-for Windows, Mac (Apple silicon and Intel), Linux and Android. Online Games, a
-server list in the Multiplayer menu; dedicated servers anyone can run; and the
-game's side of the stats.
+for Windows, Mac (Apple silicon and Intel), Linux (including Steam Deck) and
+Android, plus the dedicated server.
 
-**[halo.milenko.org](https://halo.milenko.org)**: the community's server list,
-carnage reports with medals, service records, leaderboards and accounts. It
-lists games hosted with ChupathingyCE, and games from OpenCE builds that their
-hosts add by their invite links.
+**[warthog](https://github.com/ChupathingyCE/warthog)**: Chupathingy on consoles.
+Halo on the original Xbox and the Xbox 360 (in development and testing), playing online with the PC
+builds. Bring your own copy of the game.
 
-Halo is a trademark of Microsoft. ChupathingyCE is a fan project, not made or
+**[halo.milenko.org](https://halo.milenko.org)**: the server list, carnage
+reports with medals, service records, leaderboards and profiles.
+
+### Where it came from
+
+Chupathingy is a port of the Halo: Combat Evolved decompilation project. It
+started as a fork of OpenCE, and it still plays with OpenCE players when the
+network versions match. Chupathingy's own code is GPL-3.0-or-later from
+October 16, 2026; everything before that, and the decompilation, stays CC0.
+
+### Get involved
+
+Bug reports, ideas, maps, mods and pull requests are all welcome. Start on the
+[Discord](https://discord.gg/chupathingy) or in the game's
+[issues](https://github.com/ChupathingyCE/chupathingyce/issues).
+
+---
+
+Halo is a trademark of Microsoft. Chupathingy is a fan project, not made or
 endorsed by Microsoft, Bungie or 343 Industries, and includes none of the game's
-content.
+content: you bring your own copy.
