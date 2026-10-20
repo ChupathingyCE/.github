@@ -49,7 +49,10 @@ Bug reports, ideas, maps, mods and pull requests are all welcome. Start on the
 [Discord](https://discord.gg/chupathingy) or in the game's
 [issues](https://github.com/ChupathingyCE/chupathingyce/issues).
 
-**Support the servers.** Chupathingy is free and always will be. If you'd like to help pay for the dedicated servers, the site and the build machine, there's [Ko-fi](https://ko-fi.com/milenko). Thank you.
+**Support the servers.** Chupathingy is free and always will be. Support through
+[Ko-fi](https://ko-fi.com/milenko) goes to running the site and the servers. If
+there's a specific developer or port you'd like to support, ask them: they may not
+be part of our community.
 
 ---
 
