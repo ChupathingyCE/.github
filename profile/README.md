@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/ChupathingyCE/chupathingyce/releases/latest">Download</a> ·
-<a href="https://halo.milenko.org">Games online now</a> ·
+<a href="https://stats.chupathingy.org">Games online now</a> ·
 <a href="https://discord.gg/chupathingy">Discord</a>
 </p>
 
@@ -33,7 +33,7 @@ Android, plus the dedicated server.
 Halo on the original Xbox and the Xbox 360 (in development and testing), playing online with the PC
 builds. Bring your own copy of the game.
 
-**[halo.milenko.org](https://halo.milenko.org)**: the server list, carnage
+**[stats.chupathingy.org](https://stats.chupathingy.org)**: the server list, carnage
 reports with medals, service records, leaderboards and profiles.
 
 ### Where it came from
