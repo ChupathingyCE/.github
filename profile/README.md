@@ -86,4 +86,4 @@ Chupathingy is free and always will be. Support through [Ko-fi](https://ko-fi.co
 
 ---
 
-<sub>Chupathingy is an unofficial fan project. It isn't affiliated with or endorsed by Microsoft, Xbox Game Studios, Bungie or Halo Studios. Halo is a trademark of Microsoft. Platform names and logos are trademarks of their owners, used only to identify platforms (logos from Simple Icons, CC0). No game files are included: you bring your own copy.</sub>
+<sub>Chupathingy is an unofficial fan project. It isn't affiliated with or endorsed by Microsoft, Xbox Game Studios, Bungie or Halo Studios. Halo is a trademark of Microsoft. Platform names and logos are trademarks of their owners, used only to identify platforms. Logos from Simple Icons (CC0) and Wikimedia Commons. No game files are included: you bring your own copy.</sub>
