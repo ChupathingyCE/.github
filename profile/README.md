@@ -50,7 +50,8 @@ Our servers are up around the clock, next to the ones the community runs.
 ### What you get
 
 - The campaign, split screen, System Link and online play.
-- Xbox maps, plus Halo PC, Custom Edition and HaloMD maps. Missing Custom Edition maps download for you.
+- Xbox maps, plus Halo PC, Custom Edition, HaloMD and MCC Workshop maps. Missing Custom Edition maps download for you.
+- Friends, parties, clans and voice chat in the Delta Guide.
 - The Xbox menus, with the settings people kept asking for.
 - Controller layouts, Bumper Jumper included, and high-res HUD and text.
 - Carnage reports, medals and service records on the site.
@@ -67,7 +68,8 @@ Everything extra is optional. By default, it plays like Halo.
 | [warthog-360](https://github.com/ChupathingyCE/warthog-360) | The Xbox 360. Test builds. |
 | [warthog-wiiu](https://github.com/ChupathingyCE/warthog-wiiu) | The Wii U. Test builds. |
 | [warthog-switch](https://github.com/ChupathingyCE/warthog-switch) | The Nintendo Switch, by thelinkin3000. Test builds. |
-| Community ports | PSP, PS Vita, PS3, PS4, PS5 and Xbox Series (UWP), made by other developers. They play in the same games. |
+| [warthog-ps3](https://github.com/ChupathingyCE/warthog-ps3) | The PlayStation 3, by Mayo1970. Work in progress. |
+| Community ports | PSP, PS Vita, PS4, PS5, Xbox Series (UWP), Steam Link, iPhone, iPad and Apple TV, made by other developers. They play in the same games. |
 | [stats.chupathingy.org](https://stats.chupathingy.org) | The game list, carnage reports, service records and leaderboards. |
 
 The consoles play online with everyone else. Every build needs your own copy of the game.
