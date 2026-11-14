@@ -108,7 +108,7 @@ Chupathingy is made by [Milenko](https://github.com/MrMilenko) and contributors,
 
 ### Support the servers
 
-Chupathingy is free and always will be. Support through [Ko-fi](https://ko-fi.com/milenko) pays for the site and the servers. If you want to support a specific developer or port, ask them directly. They may not be part of our community.
+Chupathingy is free and always will be. Support through [Ko-fi](https://ko-fi.com/milenko) or [Patreon](https://www.patreon.com/c/chupathingy) pays for the site and the servers. If you want to support a specific developer or port, ask them directly. They may not be part of our community.
 
 ### Where it came from
 
